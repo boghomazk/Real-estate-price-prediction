@@ -1,0 +1,4 @@
+pandas~=1.5.3
+joblib~=1.2.0
+scikit-learn~=1.5.2
+lightautoml~=0.3.8.1
