@@ -5,6 +5,6 @@ This repository contains the code used to train the model (train.py), the code u
 
 # Reproducing a project
 To reproduce this project follow these steps:
-•	Install the required python packages specified in requirements.txt.
-•	Download all files from the repository
-•	Run train.py and than predict.py file on test data.
++ Install the required python packages specified in requirements.txt.
++ Download all files from the repository
++ Run train.py and than predict.py file on test data.
